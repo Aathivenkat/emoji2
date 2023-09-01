@@ -1,0 +1,39 @@
+.face{
+    height: 200px;
+    width:200px;
+    border-radius: 100px;
+    background-color: gold;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.eye1{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: black;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.eye2{
+    height: 25px;
+    width: 25px;
+    border-radius: 25px;
+    background-color: black;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+
+
+}   
+.sq{
+    height: 30px;
+    width: 45px;
+    border-radius: 30px;
+    background-color: black;
+    border-radius: 0px 0px 20px 20px;
+    position: absolute;
+    left: 80px;
+    top: 125px;
+}
